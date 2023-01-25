@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ez4bk, Undergraduate student in Rutgers, Major in CS.
-- 🌱 I’m currently learning Software Methodology, System Programming, Priciples of Programming Languages, Design and Analysis of Algorithms.
-- 💖 It turns out that Software Engineering interests me a lot. I would like to develope software in the future.
+- 🌱 I’m currently on my track of Software Engineering and practicing leetcodes.
 - 💞️ Most of my repositories will be from school assignments and projects.
 - 📫 Contact me via qq1034351717@gmail.com if you are interesting in working with me.
 
