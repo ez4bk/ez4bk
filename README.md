@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ez4bk, Undergraduate student in Rutgers, Major in CS.
+- 👋 Hi, I’m @ez4bk, a Bachelor of Science in Computer Science at Rutgers University, pursuing a Master's of Software Engineering at the University of Maryland - College Park.
 - 🌱 I’m currently on my track of Software Engineering and practicing leetcodes.
-- 💞️ Most of my repositories will be from school assignments and projects.
-- 📫 Contact me via qq1034351717@gmail.com if you are interesting in working with me.
+- 💞️ Most of my repositories are  school assignments/projects, and projects from other platforms.
+- 📫 Contact me via ycwei328@gmail.com if you want to work with me.
 
 <!---
 ez4bk/ez4bk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
